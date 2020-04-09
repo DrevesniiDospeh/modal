@@ -30,11 +30,4 @@ $(document).ready(function() {
       }, function(){
         $(this).removeClass('animated infinite flip');
       });
- 
-     
-
-
-
-
-
-});
+    });
